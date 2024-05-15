@@ -3,8 +3,7 @@ aiofiles
 ffmpeg-python
 gTTS
 dnspython
-future
-googletrans==4.0.0-rc1
+googletrans-py
 motor
 pillow
 psutil
